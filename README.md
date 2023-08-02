@@ -6,7 +6,7 @@
 
 - 💻 All of my projects are available at [GITHUB](https://github.com/MrymEghbal)
 
-- 💬 Ask me about **Javascript, React, API, SASS, Bootstrap, Html5, Css3**
+<!-- - 💬 Ask me about **Javascript, React, API, SASS, Bootstrap, Html5, Css3**-->
 
 - 📫 How to reach me **maryam.eghbal9864@gmail.com**
 

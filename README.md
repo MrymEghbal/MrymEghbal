@@ -25,8 +25,12 @@
 <img align="left" alt="html" width="40px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=html" />
 </div>
 
+<p align="center" style="margin-top:20px">
+
+<a href="https://github.com/MrymEghbal?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=MrymEghbal&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" style="margin-top:10px;"  width="48%" alt="@Goblin's github-readme-stats"/></a>
 ![Armancodv's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MrymEghbal&layout=compact&theme=dark)
 
+</p>
 <br>
 
 <h3 align="left" style="margin-top:10px;">Connect with me:</h3>

@@ -25,7 +25,7 @@
 <img align="left" alt="html" width="40px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=html" />
 </div>
 
-<p align="center" style="margin-top:20px"></p>
+<br>
 
 <h3 align="left" style="margin-top:10px;">Connect with me:</h3>
 <p align="left">

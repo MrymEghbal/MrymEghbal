@@ -4,7 +4,7 @@
 <h4 align="left">A passionate frontend developer</h4>
 
 
-- 👨‍💻 All of my projects are available at [GITHUB](https://github.com/MrymEghbal)
+- 💻 All of my projects are available at [GITHUB](https://github.com/MrymEghbal)
 
 - 💬 Ask me about **Javascript, React, API, SASS, Bootstrap, Html5, Css3**
 

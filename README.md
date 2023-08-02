@@ -26,8 +26,9 @@
 </div>
 
 <br>
+<br>
 
-<p align="center" style="margin-top:50px">
+<p align="center" style="margin-top:10px">
 
 <a href="https://github.com/MrymEghbal?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=MrymEghbal&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" style="margin-top:10px;"  width="48%" alt="@Goblin's github-readme-stats"/></a>
 

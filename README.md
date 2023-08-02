@@ -25,6 +25,8 @@
 <img align="left" alt="html" width="40px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=html" />
 </div>
 
+![Armancodv's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MrymEghbal&layout=compact&theme=dark)
+
 <br>
 
 <h3 align="left" style="margin-top:10px;">Connect with me:</h3>

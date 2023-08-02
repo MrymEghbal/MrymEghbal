@@ -1,5 +1,5 @@
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AliNikseresht&label=Profile%20views&color=C70039&style=flat" alt="AliNikseresht" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=MrymEghbal&label=Profile%20views&color=C70039&style=flat" alt="MrymEghbal" /> </p>-->
 <h1 align="left">Hello I'm Maryam Eghbal</h1>
 <h4 align="left">A passionate frontend developer</h4>
 
@@ -29,5 +29,6 @@
 
 <h3 align="left" style="margin-top:10px;">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/maryam-eghbal-940748275" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali-nikseresht-966560258/" height="30" width="40" /></a>
-<a href="https://instagram.com/mrym_eghbal?utm_source=qr&igshid=ZDc4ODBmNjlmNQ%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alinikseresht_web" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/maryam-eghbal-940748275" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maryam-eghbal" height="30" width="40" /></a>
+<a href="https://instagram.com/mrym_eghbal?utm_source=qr&igshid=ZDc4ODBmNjlmNQ%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Mrym_Eghbal" height="30" width="40" /></a>
+
